@@ -12,6 +12,7 @@ auto4 = Auto("Ford", "Mustang", 2020)
 auto4 = Auto("Ford", "Mustang", 2002)
 
 
+
 # print(auto1)
 # print(auto2)
 
@@ -66,3 +67,12 @@ for auto in autok:
     if auto.gyartasi_ev == min(gyartasi_evek):
         print(f"a legidosebb auto adatai: {auto}___{2026 - auto.gyartasi_ev}")
         print(f"a legidosebb auto: {auto.marka} {auto.tipus}")
+
+
+#md4 5.feladat
+auto5 = Auto("BMW", "320d", 2019, 6.5) # ha nem irtuk volna be a 6.5-ot fogyasztasra, akkor a deafult erteke lenne benn, a 7.5. nem adtuk meg, hogy mennyi van a tankba, ezert a default erteke van benn, az 50 liter
+print(auto5)
+auto5.utazik(200)
+print(auto5)
+auto5.tankol(10)
+print(auto5)
