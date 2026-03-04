@@ -1,10 +1,10 @@
-#ez gyartya le magat a classt
+#ez gyartya le magat a classt - md1 2.feladat
 class Auto:
     #minden fuggvenybe be kell irni a self-et
     #minden ertek ele be kell irni a self-et
 
 
-    #ez ruhazza fel a targyat tulajdonsagokkal
+    #ez ruhazza fel a targyat tulajdonsagokkal - md1 
     def __init__(self, marka_, tipus_, gyartasi_ev_):
         self.marka = marka_
         self.tipus = tipus_

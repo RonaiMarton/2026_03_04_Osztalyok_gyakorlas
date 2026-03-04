@@ -3,9 +3,10 @@
 from auto import Auto
 import random
 
-#letrehozunk targyakat es megadjuk nekik az ertekeiket - md3 1.feladat
+#letrehozunk targyakat es megadjuk nekik az ertekeiket - md1 3.feladat
 auto1 = Auto("Toyota", "Corolla", 2015)
 auto2 = Auto("Ford", "Focus", 2018)
+#letrehozunk meg 3 targyat - md3 1.feladat
 auto3 = Auto("Audi", "E-Tron GT", 2021)
 auto4 = Auto("Ford", "Mustang", 2020)
 auto4 = Auto("Ford", "Mustang", 2002)
