@@ -1,0 +1,7 @@
+marka, tipus, gyartasi ev, fogyasztas
+Toyota, Corola, 2015, 5
+Ford, Focus, 2018, 6.7
+Audi, E-Tron Gt, 2021, 10
+Ford, Mustang, 2020, 8
+Ford, Mustang, 2002, 8
+BMW, 320d, 2019, 6.5
